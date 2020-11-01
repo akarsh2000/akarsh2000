@@ -1,4 +1,3 @@
-<body bg color = "black">
 ### Hi there, It's me Akarsh👋
 
 [![HitCount](http://hits.dwyl.com/akarsh2000/akarsh2000.svg)](http://hits.dwyl.com/akarsh2000/akarsh2000)
@@ -49,4 +48,3 @@ Happy Coding and Exploring!!
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akarsh2000&show_icons=true&hide_border=true" />
 
 </details>
-</body>
