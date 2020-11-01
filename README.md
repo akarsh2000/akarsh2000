@@ -34,8 +34,16 @@ Gist about Me
 <br>
 <br>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akarsh2000&show_icons=true&hide_border=true" />
+
+</details>
+
 <h3>Ideology:</h3>
 
 I strongly believe that there is no specific age to learn something and neither to dream about creating something that is going to change the world in every aspect. It just requires constant dedication and hardwork to achieve something in life, and a team of people with the same mindset to motivate you fulfill your goal and create history. Everyone is special, we just have to know our inner strengths and build up on that to create something unique and one of it's kind.
 
 Happy Coding and Exploring!!
+
