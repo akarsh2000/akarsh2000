@@ -40,7 +40,7 @@ Gist about Me
 <img align="left" alt="esLint" width="26px" src="https://github.com/github/explore/blob/master/topics/eslint/eslint.png" />
 <img align="left" alt="Heroku" width="26px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/master/topics/java/java.png" />
-<br>
+<hr>
 ###
 
 <img align="left" alt="JSON" width="26px" src="https://github.com/github/explore/blob/master/topics/json/json.png">
