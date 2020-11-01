@@ -17,7 +17,6 @@ Gist about Me
 ### Other places to find me:
 
 🤳 [See my photography skills](https://www.instagram.com/_akarsh_gupta_/)
-🎨 [Read out my quotes](https://www.instagram.com/the_typical_typewriter/)
 
 ### Languages and Tools:
 
