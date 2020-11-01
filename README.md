@@ -16,7 +16,7 @@ Gist about Me
 
 ### Other places to find me:
 
-🤳 [See my photography skills](https://www.instagram.com/_akarsh_gupta_/)
+[<img align="left" alt="Akarsh Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/_akarsh_gupta_/)
 
 ### Languages and Tools:
 
