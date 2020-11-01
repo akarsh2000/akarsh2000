@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![HitCount](http://hits.dwyl.com/akarsh2000/akarsh2000.svg)](http://hits.dwyl.com/akarsh2000/akarsh2000)
 <!--
 **akarsh2000/akarsh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
