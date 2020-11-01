@@ -34,7 +34,8 @@ Gist about Me
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 <br>
-### Ideology:
+
+<h3>Ideology:</h3>
 
 I strongly believe that there is no specific age to learn something and neither to dream about creating something that is going to change the world in every aspect. It just requires constant dedication and hardwork to achieve something in life, and a team of people with the same mindset to motivate you fulfill your goal and create history. Everyone is special, we just have to know our inner strengths and build up on that to create something unique and one of it's kind.
 
