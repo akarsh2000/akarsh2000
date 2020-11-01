@@ -16,7 +16,7 @@ Gist about Me
 
 ### Other places to find me:
 
-[<img align="left" alt="Akarsh Gupta | Instagram" width="22px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/_akarsh_gupta_/)
+[<img align="left" alt="Akarsh Gupta | Instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/_akarsh_gupta_/)
 [<img align="left" alt="Akarsh Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/akarsh-gupta-954487193/)
 <br>
 <br>
@@ -40,6 +40,8 @@ Gist about Me
 <img align="left" alt="esLint" width="26px" src="https://github.com/github/explore/blob/master/topics/eslint/eslint.png" />
 <img align="left" alt="Heroku" width="26px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/master/topics/java/java.png" />
+<br>
+<br>
 <img align="left" alt="JQuery" width="26px" src="https://github.com/github/explore/blob/master/topics/jquery/jquery.png" />
 <img align="left" alt="JSON" width="26px" src="https://github.com/github/explore/blob/master/topics/json/json.png" />
 <img align="left" alt="jupyter-notebook" width="26px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png" />
