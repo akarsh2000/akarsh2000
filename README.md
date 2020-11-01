@@ -16,7 +16,7 @@ Gist about Me
 
 ### Other places to find me:
 
-[<img align="left" alt="Akarsh Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/_akarsh_gupta_/)
+[<img align="left" alt="Akarsh Gupta | Instagram" width="22px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/_akarsh_gupta_/)
 [<img align="left" alt="Akarsh Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/akarsh-gupta-954487193/)
 <br>
 <br>
