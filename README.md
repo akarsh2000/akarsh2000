@@ -42,7 +42,6 @@ Gist about Me
 <img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/master/topics/java/java.png" />
 <br>
 <br>
-<img align="left" alt="JQuery" width="26px" src="https://github.com/github/explore/blob/master/topics/jquery/jquery.png" />
 <img align="left" alt="JSON" width="26px" src="https://github.com/github/explore/blob/master/topics/json/json.png" />
 <img align="left" alt="jupyter-notebook" width="26px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png" />
 
