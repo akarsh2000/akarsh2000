@@ -43,8 +43,8 @@ Gist about Me
 
 ###
 
-<img align="left" alt="JSON" width="26px" src="https://github.com/github/explore/blob/master/topics/json/json.png">
-<img align="left" alt="jupyter-notebook" width="26px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png">
+<img align="left" alt="JSON" width="26px"height="-20px" src="https://github.com/github/explore/blob/master/topics/json/json.png">
+<img align="left" alt="jupyter-notebook" width="26px" height="-20px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png">
 
 
 <br>
