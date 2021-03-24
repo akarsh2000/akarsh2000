@@ -33,14 +33,6 @@ Gist about Me
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Atom" width="26px" src="https://github.com/github/explore/blob/master/topics/atom/atom.png" />
-<img align="left" alt="AWS" width="26px" src="https://github.com/github/explore/blob/master/topics/aws/aws.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Express" width="26px" src="https://github.com/github/explore/blob/master/topics/express/express.png" />
-<img align="left" alt="esLint" width="26px" src="https://github.com/github/explore/blob/master/topics/eslint/eslint.png" />
-<img align="left" alt="Heroku" width="26px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/master/topics/java/java.png" />
-
 ###
 
 <img align="left" alt="JSON" width="26px" height="-30px" src="https://github.com/github/explore/blob/master/topics/json/json.png">
