@@ -33,10 +33,6 @@ Gist about Me
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 ###
 
-<img align="left" alt="JSON" width="26px" height="-30px" src="https://github.com/github/explore/blob/master/topics/json/json.png">
-<img align="left" alt="jupyter-notebook" width="26px" height="-30px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png">
-
-
 <br>
 <br>
 
